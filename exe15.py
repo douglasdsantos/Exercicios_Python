@@ -31,4 +31,3 @@ print('- IR (11%) : \t\t R$ {:.2f}' .format(ir))
 print('- INSS (8%) : \t\t R$ {:.2f}' .format(inss))
 print('- Sindicato (5%) : \t R$ {:.2f}' .format(sindicato))
 print('= Salário Líquido : \t R$ {:.2f}' .format(salario_liquido))
-
